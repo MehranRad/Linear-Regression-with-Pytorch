@@ -1,2 +1,2 @@
 # Deep-Learning-Lab
-Deep learning projects and experiments with PyTorch. Currently includes a salary prediction model trained on experience–salary data. Focus on data preprocessing, normalization, neural network training, and model evaluation.
+Implementing Linear Regression from scratch in PyTorch on Salary Data. The project covers data loading, preprocessing, visualization, manual model implementation, gradient computation, training with gradient descent, and testing with predictions visualization.
